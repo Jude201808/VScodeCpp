@@ -1,0 +1,11 @@
+/home/zhuao/cmake_vscode/createLibrary/build/CMakeFiles/rebuild_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/CMakeFiles/edit_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/CMakeFiles/rebuild_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/CMakeFiles/edit_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/app/CMakeFiles/rebuild_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/app/CMakeFiles/libApp.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/app/CMakeFiles/edit_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/src/CMakeFiles/rebuild_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/src/CMakeFiles/edit_cache.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/src/CMakeFiles/person.dir
+/home/zhuao/cmake_vscode/createLibrary/build/src/src/CMakeFiles/person_static.dir

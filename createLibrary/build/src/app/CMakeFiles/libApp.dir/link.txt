@@ -1,0 +1,1 @@
+/usr/bin/g++-7   -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/libApp.dir/libApp.cpp.o  -o ../../../bin/libApp -Wl,-rpath,/home/zhuao/cmake_vscode/createLibrary/lib ../../../lib/libperson_d.so.1.0 

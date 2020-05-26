@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zhuao/cmake_vscode/createLibrary/build/src/app",
+  "command": "/usr/bin/g++-7   -I/home/zhuao/cmake_vscode/createLibrary/include   -O0 -Wall -g -ggdb   -o CMakeFiles/libApp.dir/libApp.cpp.o -c /home/zhuao/cmake_vscode/createLibrary/src/app/libApp.cpp",
+  "file": "/home/zhuao/cmake_vscode/createLibrary/src/app/libApp.cpp"
+},
+{
+  "directory": "/home/zhuao/cmake_vscode/createLibrary/build/src/src",
+  "command": "/usr/bin/g++-7  -Dperson_EXPORTS -I/home/zhuao/cmake_vscode/createLibrary/include   -O0 -Wall -g -ggdb -fPIC   -o CMakeFiles/person.dir/person.cpp.o -c /home/zhuao/cmake_vscode/createLibrary/src/src/person.cpp",
+  "file": "/home/zhuao/cmake_vscode/createLibrary/src/src/person.cpp"
+},
+{
+  "directory": "/home/zhuao/cmake_vscode/createLibrary/build/src/src",
+  "command": "/usr/bin/g++-7   -I/home/zhuao/cmake_vscode/createLibrary/include   -O0 -Wall -g -ggdb   -o CMakeFiles/person_static.dir/person.cpp.o -c /home/zhuao/cmake_vscode/createLibrary/src/src/person.cpp",
+  "file": "/home/zhuao/cmake_vscode/createLibrary/src/src/person.cpp"
+}
+]

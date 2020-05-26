@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.3)
+project(libTest CXX)
+
+if(NOT DEFINED CMAKE_DEBUG_POSTFIX)
+set(CMAKE_DEBUG_POSTFIX "_d")
+endif()
+if(NOT DEFINED CMAKE_RELWITHDEBINFO_POSTFIX)
+set(CMAKE_RELWITHDEBINFO_POSTFIX "_rd")
+endif()
+
+SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXXFLAGS} -O0 -Wall -g -ggdb")
+SET(CMAKE_CXX_FLAGS_RELEASE "$ENV{CXXFLAGS} -O3 -Wall")
+
+add_subdirectory(src)

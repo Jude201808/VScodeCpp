@@ -1,0 +1,1 @@
+/usr/bin/g++-7 -fPIC  -O0 -Wall -g -ggdb  -shared -Wl,-soname,libperson_d.so.1 -o ../../../lib/libperson_d.so.1.0 CMakeFiles/person.dir/person.cpp.o 
