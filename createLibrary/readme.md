@@ -7,30 +7,30 @@
     Cmake3.10.2
 
 1、以下为make后目录结构（删去build目录中内容）
-    注意：借用https://my.oschina.net/iamhere/blog/515660 改造而成。
-.
-├── bin
-│   └── libApp
-├── build
-├── build.sh
-├── CMakeLists.txt
-├── include
-│   └── person.h
-├── lib
-│   ├── libperson_d.a
-│   ├── libperson_d.so -> libperson_d.so.1
-│   ├── libperson_d.so.1 -> libperson_d.so.1.0
-│   └── libperson_d.so.1.0
-├── readme.md
-└── src
-    ├── app
-    │   ├── CMakeLists.txt
-    │   └── libApp.cpp
-    ├── CMakeLists.txt
-    └── src
-        ├── CMakeLists.txt
-        └── person.cpp
-
+    注意：借用https://my.oschina.net/iamhere/blog/515660 改造而成。  
+.  
+├── bin  
+│   └── libApp  
+├── build  
+├── build.sh  
+├── CMakeLists.txt  
+├── include  
+│   └── person.h  
+├── lib  
+│   ├── libperson_d.a  
+│   ├── libperson_d.so -> libperson_d.so.1  
+│   ├── libperson_d.so.1 -> libperson_d.so.1.0  
+│   └── libperson_d.so.1.0  
+├── readme.md  
+└── src  
+    ├── app  
+    │   ├── CMakeLists.txt  
+    │   └── libApp.cpp  
+    ├── CMakeLists.txt  
+    └── src  
+        ├── CMakeLists.txt  
+        └── person.cpp  
+  
 2、特点
     1）VScode结合cmake编译调试
         cmake编译
